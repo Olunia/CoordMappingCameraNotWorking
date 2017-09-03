@@ -1,0 +1,75 @@
+C:\Users\Monika\Desktop\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.exe.config
+C:\Users\Monika\Desktop\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.exe
+C:\Users\Monika\Desktop\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.pdb
+C:\Users\Monika\Desktop\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Monika\Desktop\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Monika\Desktop\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.csprojResolveAssemblyReference.cache
+C:\Users\Monika\Desktop\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\MainWindow.baml
+C:\Users\Monika\Desktop\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\MainWindow.g.cs
+C:\Users\Monika\Desktop\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\App.g.cs
+C:\Users\Monika\Desktop\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping_MarkupCompile.cache
+C:\Users\Monika\Desktop\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.g.resources
+C:\Users\Monika\Desktop\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.Properties.Resources.resources
+C:\Users\Monika\Desktop\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.csproj.GenerateResource.Cache
+C:\Users\Monika\Desktop\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.exe
+C:\Users\Monika\Desktop\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.pdb
+C:\Users\Monika\Desktop\Kinect\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.exe.config
+C:\Users\Monika\Desktop\Kinect\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.exe
+C:\Users\Monika\Desktop\Kinect\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.pdb
+C:\Users\Monika\Desktop\Kinect\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.csprojResolveAssemblyReference.cache
+C:\Users\Monika\Desktop\Kinect\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\MainWindow.baml
+C:\Users\Monika\Desktop\Kinect\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\MainWindow.g.cs
+C:\Users\Monika\Desktop\Kinect\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\App.g.cs
+C:\Users\Monika\Desktop\Kinect\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping_MarkupCompile.cache
+C:\Users\Monika\Desktop\Kinect\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.g.resources
+C:\Users\Monika\Desktop\Kinect\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.Properties.Resources.resources
+C:\Users\Monika\Desktop\Kinect\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.csproj.GenerateResource.Cache
+C:\Users\Monika\Desktop\Kinect\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.exe
+C:\Users\Monika\Desktop\Kinect\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.pdb
+C:\Users\Monika\Desktop\Kinect\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Monika\Desktop\Kinect\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\Microsoft.Kinect.xml
+D:\Studia IIst EL\MAGISTERKA\KINECT\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.exe.config
+D:\Studia IIst EL\MAGISTERKA\KINECT\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.exe
+D:\Studia IIst EL\MAGISTERKA\KINECT\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.pdb
+D:\Studia IIst EL\MAGISTERKA\KINECT\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.exe
+D:\Studia IIst EL\MAGISTERKA\KINECT\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.pdb
+D:\Studia IIst EL\MAGISTERKA\KINECT\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\Microsoft.Kinect.dll
+D:\Studia IIst EL\MAGISTERKA\KINECT\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\Microsoft.Kinect.xml
+D:\Studia IIst EL\MAGISTERKA\KINECT\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.csprojResolveAssemblyReference.cache
+D:\Studia IIst EL\MAGISTERKA\KINECT\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\MainWindow.baml
+D:\Studia IIst EL\MAGISTERKA\KINECT\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\MainWindow.g.cs
+D:\Studia IIst EL\MAGISTERKA\KINECT\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\App.g.cs
+D:\Studia IIst EL\MAGISTERKA\KINECT\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping_MarkupCompile.cache
+D:\Studia IIst EL\MAGISTERKA\KINECT\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.g.resources
+D:\Studia IIst EL\MAGISTERKA\KINECT\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.Properties.Resources.resources
+D:\Studia IIst EL\MAGISTERKA\KINECT\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.csproj.GenerateResource.Cache
+D:\Studia IIst EL\MAGISTERKA\KINECT - koło naukowe\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.exe.config
+D:\Studia IIst EL\MAGISTERKA\KINECT - koło naukowe\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.exe
+D:\Studia IIst EL\MAGISTERKA\KINECT - koło naukowe\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.pdb
+D:\Studia IIst EL\MAGISTERKA\KINECT - koło naukowe\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.exe
+D:\Studia IIst EL\MAGISTERKA\KINECT - koło naukowe\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.pdb
+D:\Studia IIst EL\MAGISTERKA\KINECT - koło naukowe\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\Microsoft.Kinect.dll
+D:\Studia IIst EL\MAGISTERKA\KINECT - koło naukowe\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\Microsoft.Kinect.xml
+D:\Studia IIst EL\MAGISTERKA\KINECT - koło naukowe\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.csprojResolveAssemblyReference.cache
+D:\Studia IIst EL\MAGISTERKA\KINECT - koło naukowe\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\MainWindow.baml
+D:\Studia IIst EL\MAGISTERKA\KINECT - koło naukowe\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\MainWindow.g.cs
+D:\Studia IIst EL\MAGISTERKA\KINECT - koło naukowe\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\App.g.cs
+D:\Studia IIst EL\MAGISTERKA\KINECT - koło naukowe\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping_MarkupCompile.cache
+D:\Studia IIst EL\MAGISTERKA\KINECT - koło naukowe\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.g.resources
+D:\Studia IIst EL\MAGISTERKA\KINECT - koło naukowe\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.Properties.Resources.resources
+D:\Studia IIst EL\MAGISTERKA\KINECT - koło naukowe\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.csproj.GenerateResource.Cache
+D:\MGR\KINECT - koło naukowe\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.exe.config
+D:\MGR\KINECT - koło naukowe\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.exe
+D:\MGR\KINECT - koło naukowe\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.pdb
+D:\MGR\KINECT - koło naukowe\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\Microsoft.Kinect.dll
+D:\MGR\KINECT - koło naukowe\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\Microsoft.Kinect.xml
+D:\MGR\KINECT - koło naukowe\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.csprojResolveAssemblyReference.cache
+D:\MGR\KINECT - koło naukowe\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\MainWindow.baml
+D:\MGR\KINECT - koło naukowe\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\MainWindow.g.cs
+D:\MGR\KINECT - koło naukowe\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\App.g.cs
+D:\MGR\KINECT - koło naukowe\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping_MarkupCompile.cache
+D:\MGR\KINECT - koło naukowe\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.g.resources
+D:\MGR\KINECT - koło naukowe\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.Properties.Resources.resources
+D:\MGR\KINECT - koło naukowe\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.csproj.GenerateResource.Cache
+D:\MGR\KINECT - koło naukowe\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.exe
+D:\MGR\KINECT - koło naukowe\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.pdb

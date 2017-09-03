@@ -1,0 +1,10 @@
+﻿<Window x:Class="KinectCoordinateMapping.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="769" Width="1366"
+        Loaded="Window_Loaded" Closed="Window_Closed" WindowStyle="None">
+    <Grid>
+        <Image Name="camera" Width="1366" Height="768" />
+        <Canvas Name="canvas" Width="1366" Height="768" />
+    </Grid>
+</Window>
